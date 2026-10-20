@@ -1,0 +1,5 @@
+Synthetic bridge record B.
+This is fictional fixture data for a software demonstration.
+The approved bridge length is exactly one hundred metres.
+The approved bridge paint colour is blue.
+The record describes one approved span; it is not a real construction record.
