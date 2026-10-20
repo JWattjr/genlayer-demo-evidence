@@ -1,0 +1,5 @@
+Synthetic appeal evidence, record RAVEN-001.
+This document is fictional fixture data for a software demonstration.
+The certified length of the fictional Raven Bridge is exactly 100 metres.
+The certified deck colour of the fictional Raven Bridge is blue.
+This record describes one bridge and one certified length.
